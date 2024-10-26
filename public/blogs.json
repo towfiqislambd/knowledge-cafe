@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "blog_thumbnail": "https://i.ibb.co.com/Tw4Dsd9/1.jpg",
+      "blog_title": "How to get your first job as a self-taught programmer",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co.com/6g2NVRQ/boy1.png",
+      "publish_date": "2024-10-20",
+      "watching_time": 5,
+      "tags": ["AI", "Technology", "Innovation"],
+      "mark_as_read": false
+    },
+    {
+      "id": 2,
+      "blog_thumbnail": "https://i.ibb.co.com/n8sdT6h/2.png",
+      "blog_title": "A Week in the Swiss Alps",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/qsCySLQ/boy2.jpg",
+      "publish_date": "2024-09-15",
+      "watching_time": 8,
+      "tags": ["Travel", "Adventure", "Switzerland"],
+      "mark_as_read": true
+    },
+    {
+      "id": 3,
+      "blog_thumbnail": "https://i.ibb.co.com/NKtJ1CL/3.png",
+      "blog_title": "The Ultimate Guide to Italian Pasta",
+      "author_name": "Chef Mario",
+      "author_img": "https://i.ibb.co.com/c3h3Z6L/girl1.jpg",
+      "publish_date": "2024-07-25",
+      "watching_time": 10,
+      "tags": ["Food", "Italian", "Pasta"],
+      "mark_as_read": false
+    }
+  ]
+  
